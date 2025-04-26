@@ -10,7 +10,7 @@ html {
 
 body {
     font-family: "Outfit", sans-serif;
-    background: linear-gradient(var(--background-dark), var(--background-dark)), url("/bg_clima.jpg") center/cover no-repeat;
+    background-image: url("/bg_clima.jpg");
     height: 100vh;
     color: var(--white);
     font-size: 2rem;
